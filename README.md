@@ -39,8 +39,12 @@ print("Current root (min element):", heap.peek())
 ```
 ## Output
 Built Min Heap: [5, 10, 8, 30, 20, 15, 25]
+
 Heap after pushing 3: [3, 5, 8, 10, 20, 15, 25, 30]
+
 Popped element: 3
+
 Heap after pop: [5, 10, 8, 30, 20, 15, 25]
+
 Current root (min element): 5
 
